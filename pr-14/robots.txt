@@ -1,1 +1,0 @@
-Sitemap: https://redeboer.github.io/phd-thesis-template-preview/pr-14/sitemap.xml
